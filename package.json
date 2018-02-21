@@ -2,7 +2,6 @@
   "name": "react-publish-test-component",
   "version": "0.0.1",
   "description": "Testing how to create and publish a component to NPM",
-  "author": "Federico Pazos",
   "main": "build/index.js",
   "peerDependencies": {
     "react": "^15.5.4"
@@ -17,8 +16,8 @@
     "build": "webpack"
   },
   "author": {
-    "name": "Your name",
-    "email": "your email"
+    "name": "Federico Pazos",
+    "email": "fede.pazos95@gmail.com"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
