@@ -8,11 +8,12 @@
   },
   "dependencies": {
     "react": "^15.5.4",
-    "webpack": "^2.6.1"
+    "webpack": "^4.0.1",
+    "webpack-cli": "^2.0.9"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack --watch",
+    "start": "webpack --watch --mode development",
     "build": "webpack"
   },
   "author": {
